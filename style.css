@@ -1,0 +1,67 @@
+.padding img{
+    padding-top: 25px;
+}
+
+.buy-now-btn{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 60px;
+}
+
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding:20px 40px;
+}
+
+.carousel-indicators li{
+
+    background-color: yellow;
+    height: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.color-1{
+    color: rgb(233, 233, 10);
+    
+}
+.card{
+    text-align: center;
+    border: none;
+}
+.card-footer{
+    border: none;
+}
+
+.txt-center{
+    text-align: center;
+    color: rgb(0, 68, 255);
+   
+    
+}
+
+.border1{
+   
+    padding: 20px 40px;
+}
+
+p{
+    
+    padding: 20px 40px;
+    
+}
+
+#img{
+    width:500px;
+}
+
+
+
